@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "249787863007",
+    "project_id": "instax-449fd",
+    "storage_bucket": "instax-449fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249787863007:android:623bb5681bebc846563e6a",
+        "android_client_info": {
+          "package_name": "com.hassan.myFirstFlutterApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249787863007-q079ut0jvd4m2mfkbq1ji5pk7d9t4hnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.myFirstFlutterApp",
+            "certificate_hash": "41e0cb1073d9e25a2de4832b60fc3799e628fd10"
+          }
+        },
+        {
+          "client_id": "249787863007-h6sai023j1pev4g4n8alknuhd499ek2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5y_Sn-yrqscuVYd121NlMEPOs0120IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249787863007-h6sai023j1pev4g4n8alknuhd499ek2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249787863007-uar9hcm3jjohbb8pvsu58d1436q28rch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hassan.myFirstFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

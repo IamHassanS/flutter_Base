@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">249787863007-h6sai023j1pev4g4n8alknuhd499ek2b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">249787863007</string>
+    <string name="google_api_key" translatable="false">AIzaSyAE5y_Sn-yrqscuVYd121NlMEPOs0120IE</string>
+    <string name="google_app_id" translatable="false">1:249787863007:android:623bb5681bebc846563e6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAE5y_Sn-yrqscuVYd121NlMEPOs0120IE</string>
+    <string name="google_storage_bucket" translatable="false">instax-449fd.appspot.com</string>
+    <string name="project_id" translatable="false">instax-449fd</string>
+</resources>
